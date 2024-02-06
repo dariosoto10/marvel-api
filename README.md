@@ -17,10 +17,10 @@ This application retrieves information about Marvel characters using the Marvel 
 1. Create a `.env` file in the root directory of the project.
 2. Add the following environment variables to the `.env` file:
 
--MARVEL_PUBLIC_KEY=YOUR_PUBLIC_KEY
--MARVEL_PRIVATE_KEY=YOUR_PRIVATE_KEY
--CHARACTER_TO_FILTER=CharacterNameToFilter
--MONGODB_URI=YourMongoDBURI
+- `MARVEL_PUBLIC_KEY=YOUR_PUBLIC_KEY`
+- `MARVEL_PRIVATE_KEY=YOUR_PRIVATE_KEY`
+- `CHARACTER_TO_FILTER=CharacterNameToFilter`
+- `MONGODB_URI=YourMongoDBURI`
 
 ## Usage
 
