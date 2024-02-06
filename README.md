@@ -24,9 +24,11 @@ MONGODB_URI=YourMongoDBURI
 
 ## Usage
 
-1. Run the application by executing the following scripts in the terminal.
-   `docker-compose up --build`
-   `node marvel-api`
+1. Run the application by executing the following scripts in the terminal:
+
+- `docker-compose up --build`
+- `node marvel-api`
+
 2. Marvel characters' information will be fetched, filtered, and saved to the MongoDB database.
 3. Console logs will display the retrieved character information and any errors encountered during the process.
 
